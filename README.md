@@ -26,6 +26,7 @@
 			<img alt="SQL" src="https://img.shields.io/badge/SQL-05122A?style=flat&logo=sql">
 			<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=MongoDB">
 			<img alt="DAX" src="https://img.shields.io/badge/DAX-05122A?style=flat&logo=dax">
+			<img alt="R" src="https://img.shields.io/badge/R-05122A?style=flat&logo=R">
 		</kbd>
 	</p>
 	<p>
@@ -68,9 +69,11 @@
 			<img alt="Git" src="https://img.shields.io/badge/Git-05122A?style=flat&logo=Git">
 			<img alt="Github Desktop" src="https://img.shields.io/badge/Github%20Desktop-05122A?style=flat&logo=Github">
 			<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-05122A?style=flat&logo=Visual%20Studio%20Code">
+			<img alt="R Commander" src="https://img.shields.io/badge/R Commander-05122A?style=flat&logo=R Commander">
 			<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-05122A?style=flat&logo=Jupyter">
 			<img alt="Static Badge" src="https://img.shields.io/badge/Google%20Colab-05122A?style=flat&logo=Google%20Colab">
 			<img alt="Canva" src="https://img.shields.io/badge/Canva-05122A?style=flat&logo=Canva">
+			<img alt="Jamovi" src="https://img.shields.io/badge/Jamovi-05122A?style=flat&logo=Jamovi">
 		</kbd>
 	</p>
     </p>
