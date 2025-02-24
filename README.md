@@ -93,6 +93,10 @@
   <a href="https://github.com/clorofilo/depresion-cognicion-funcional-old/">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=clorofilo&repo=depresion-cognicion-funcional-old&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Efecto de la depresión sobre la cognición y la capacidad funcional física en personas mayores: un análisis longitudinal">
   </a>
+
+  <a href="https://github.com/clorofilo/CellClassificationML/">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=clorofilo&repo=CellClassificationML&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="ML Classification of Tumoral Cells">
+  </a>
 </p>
 
 
