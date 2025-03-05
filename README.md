@@ -97,6 +97,10 @@
   <a href="https://github.com/clorofilo/CellClassificationML/">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=clorofilo&repo=CellClassificationML&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="ML Classification of Tumoral Cells">
   </a>
+
+  <a href="https://github.com/clorofilo/mushroom-classification-ml/">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=clorofilo&repo=mushroom-classification-ml&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="ML Classification of Mushrooms">
+  </a>
 </p>
 
 
