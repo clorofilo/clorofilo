@@ -82,14 +82,15 @@
 
 <h2>Top Projects</h2>
 <p>
-  <a href="https://github.com/clorofilo/Forecast-de-ventas-Reposicion-de-stock">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=clorofilo&repo=Forecast-de-ventas-Reposicion-de-stock&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Forecast de ventas y Reposición de stocks">
+
+   <a href="https://github.com/clorofilo/prediccion-morosidad">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=clorofilo&repo=prediccion-morosidad&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="prediccion-morosidad">
   </a>
 	
-  <a href="https://github.com/clorofilo/data-analysis-web-metrics">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=clorofilo&repo=data-analysis-web-metrics&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="data-analysis-web-metrics">
+   <a href= "https://github.com/clorofilo/Forecast-de-ventas-Reposicion-de-stock">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=clorofilo&repo=Forecast-de-ventas-Reposicion-de-stock&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Forecast de ventas y Reposición de stocks">
   </a>
-  
+	 
   <a href="https://github.com/clorofilo/depresion-cognicion-funcional-old/">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=clorofilo&repo=depresion-cognicion-funcional-old&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Efecto de la depresión sobre la cognición y la capacidad funcional física en personas mayores: un análisis longitudinal">
   </a>
