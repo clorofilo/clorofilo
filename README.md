@@ -23,6 +23,7 @@
 			<br>
 			<br>
 			<img alt="Python" src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python">
+			<img alt="PySpark" src="https://img.shields.io/badge/PySpark-05122A?style=flat&logo=python">
 			<img alt="SQL" src="https://img.shields.io/badge/SQL-05122A?style=flat&logo=sql">
 			<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=MongoDB">
 			<img alt="DAX" src="https://img.shields.io/badge/DAX-05122A?style=flat&logo=dax">
@@ -50,7 +51,8 @@
 			<br>
 			<br>
 			<img alt="MySql" src="https://img.shields.io/badge/MySql-05122A?style=flat&logo=MySql">
-      <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-05122A?style=flat&logo=MariaDB">
+			<img alt="Fabric" src="https://img.shields.io/badge/F - Fabric-05122A?style=flat&logo=F">
+      		<img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-05122A?style=flat&logo=MariaDB">
 			<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=MongoDB">   
 			<img alt="Amazon Web Services" src="https://img.shields.io/badge/AWS - Amazon Web Services-05122A?style=flat&logo=AWS">
 			<img alt="Github Pages" src="https://img.shields.io/badge/Github%20Pages-05122A?style=flat&logo=Github">
@@ -62,15 +64,16 @@
 			<br>
 			<br>
 			<img alt="Power BI" src="https://img.shields.io/badge/PBI - Power BI-05122A?style=flat&logo=PBI">
-			<img alt="Fabric" src="https://img.shields.io/badge/F - Fabric-05122A?style=flat&logo=F">
 			<img alt="Google Analytics 4" src="https://img.shields.io/badge/GA4 - Google Analytics 4-05122A?style=flat&logo=GA4">
       <img alt="Excel" src="https://img.shields.io/badge/Excel-05122A?style=flat&logo=Excel">
       <img alt="Jira" src="https://img.shields.io/badge/Jira-05122A?style=flat&logo=Jira">
       <img alt="PIM" src="https://img.shields.io/badge/PIM-05122A?style=flat&logo=PIM">
 			<img alt="Git" src="https://img.shields.io/badge/Git-05122A?style=flat&logo=Git">
 			<img alt="Github Desktop" src="https://img.shields.io/badge/Github%20Desktop-05122A?style=flat&logo=Github">
+			<img alt="Antigravity" src="https://img.shields.io/badge/Antigravity-05122A?style=flat&logo=Antigravity">
 			<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-05122A?style=flat&logo=Visual%20Studio%20Code">
 			<img alt="R Commander" src="https://img.shields.io/badge/R Commander-05122A?style=flat&logo=R">
+			<img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-05122A?style=flat&logo=Claude%20Code">
 			<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-05122A?style=flat&logo=Jupyter">
 			<img alt="Static Badge" src="https://img.shields.io/badge/Google%20Colab-05122A?style=flat&logo=Google%20Colab">
 			<img alt="Canva" src="https://img.shields.io/badge/Canva-05122A?style=flat&logo=Canva">
