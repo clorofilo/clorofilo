@@ -62,6 +62,7 @@
 			<br>
 			<br>
 			<img alt="Power BI" src="https://img.shields.io/badge/PBI - Power BI-05122A?style=flat&logo=PBI">
+			<img alt="Fabric" src="https://img.shields.io/badge/F - Fabric-05122A?style=flat&logo=F">
 			<img alt="Google Analytics 4" src="https://img.shields.io/badge/GA4 - Google Analytics 4-05122A?style=flat&logo=GA4">
       <img alt="Excel" src="https://img.shields.io/badge/Excel-05122A?style=flat&logo=Excel">
       <img alt="Jira" src="https://img.shields.io/badge/Jira-05122A?style=flat&logo=Jira">
@@ -69,7 +70,7 @@
 			<img alt="Git" src="https://img.shields.io/badge/Git-05122A?style=flat&logo=Git">
 			<img alt="Github Desktop" src="https://img.shields.io/badge/Github%20Desktop-05122A?style=flat&logo=Github">
 			<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-05122A?style=flat&logo=Visual%20Studio%20Code">
-			<img alt="R Commander" src="https://img.shields.io/badge/R Commander-05122A?style=flat&logo=R Commander">
+			<img alt="R Commander" src="https://img.shields.io/badge/R Commander-05122A?style=flat&logo=R">
 			<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-05122A?style=flat&logo=Jupyter">
 			<img alt="Static Badge" src="https://img.shields.io/badge/Google%20Colab-05122A?style=flat&logo=Google%20Colab">
 			<img alt="Canva" src="https://img.shields.io/badge/Canva-05122A?style=flat&logo=Canva">
