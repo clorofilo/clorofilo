@@ -156,7 +156,9 @@ Skills: `Stakeholders` `Project execution` `Project managment`  `Lean Six Sigma`
 
 <br/>
 
-### Education
+<!-- Education -->
+</br>
+<h2>Education</h2>
 
 **Bachelor's Degree in Psychology** \
 [**Universitat de Barcelona**](https://www.ub.edu/) • *jul. 2024* \
@@ -166,6 +168,6 @@ Specialization in Statistics and Marketing
 
 **Master in Data Science & AI** \
 [**Nodd3r**](https://nodd3r.com/) • *jun. 2024 – jun. 2025* \
-Skills: `ETL (Extract, Transform, Load)` `EDA` `Machine learning` `Deep Learning` `Computer Vision` `LLM` `LangChain` `LangGraph` `OpenAI API` `Google SDK` `Docker`
+Skills: `ETL (Extract, Transform, Load)` `EDA` `Machine learning` `Deep Learning` `Computer Vision` `LLM` 
 
 <br/>
