@@ -7,7 +7,7 @@
 
 
 <!-- Short Bio -->
-<p>Welcome to my profile! <br> I'm a <b>psychologist and data analyst</b> as well as an <b>AI enthusiast</b> currently building my skills in <b>Machine Learning</b> and <b>Deep Learning</b>.
+<p><b>Data Engineer & Applied AI Specialist</b> with a background in quantitative behavioral science.<br> Specializing in <b>Agentic Workflows</b>, <b>LLM Orchestration</b>, and production-grade <b>Machine Learning & Data Pipelines</b>.</p>
 
 
 
@@ -32,28 +32,40 @@
 	</p>
 	<p>
 		<kbd>
-			<kbd>Machine Learning</kbd>
+			<kbd>AI Frameworks, APIs & SDKs</kbd>
 			<br>
 			<br>
- 			<img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-05122A?style=flat&logo=Scikit-learn">
- 			<img alt="XB-Boost" src="https://img.shields.io/badge/XG-Boost-05122A?style=flat&logo=xg-boost">
-			<img alt="Numpy" src="https://img.shields.io/badge/Numpy-05122A?style=flat&logo=numpy">
-			<img alt="Pandas" src="https://img.shields.io/badge/Pandas-05122A?style=flat&logo=Pandas">
-			<img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-05122A?style=flat">
-      <img alt="Seaborn" src="https://img.shields.io/badge/SNS - Seaborn-05122A?style=flat">
-			<img alt="Beautifull Soup" src="https://img.shields.io/badge/BS - Beautifull Soup-05122A?style=flat&logo=Bs">
-			<img alt="Selenium" src="https://img.shields.io/badge/Selenium-05122A?style=flat&logo=selenium">
-      </kbd>
+			<img alt="OpenAI API" src="https://img.shields.io/badge/OpenAI%20API-05122A?style=flat&logo=openai">
+			<img alt="Google SDK" src="https://img.shields.io/badge/Google%20SDK-05122A?style=flat&logo=google">
+			<img alt="LangChain" src="https://img.shields.io/badge/LangChain-05122A?style=flat&logo=langchain">
+			<img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-05122A?style=flat&logo=langchain">
+		</kbd>
 	</p>
 	<p>
 		<kbd>
-			<kbd>Databases and Cloud Hosting</kbd>
+			<kbd>Machine Learning</kbd>
+			<br>
+			<br>
+			<img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-05122A?style=flat&logo=Scikit-learn">
+			<img alt="XG-Boost" src="https://img.shields.io/badge/XG--Boost-05122A?style=flat&logo=xg-boost">
+			<img alt="Numpy" src="https://img.shields.io/badge/Numpy-05122A?style=flat&logo=numpy">
+			<img alt="Pandas" src="https://img.shields.io/badge/Pandas-05122A?style=flat&logo=Pandas">
+			<img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-05122A?style=flat">
+			<img alt="SNS - Seaborn" src="https://img.shields.io/badge/SNS - Seaborn-05122A?style=flat">
+			<img alt="Beautifull Soup" src="https://img.shields.io/badge/BS - Beautifull Soup-05122A?style=flat&logo=Bs">
+			<img alt="Selenium" src="https://img.shields.io/badge/Selenium-05122A?style=flat&logo=selenium">
+		</kbd>
+	</p>
+	<p>
+		<kbd>
+			<kbd>Databases, Containers and Cloud Hosting</kbd>
 			<br>
 			<br>
 			<img alt="MySql" src="https://img.shields.io/badge/MySql-05122A?style=flat&logo=MySql">
+			<img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-05122A?style=flat&logo=MariaDB">
+			<img alt="Docker" src="https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker">
 			<img alt="Fabric" src="https://img.shields.io/badge/F - Fabric-05122A?style=flat&logo=F">
-      		<img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-05122A?style=flat&logo=MariaDB">
-			<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=MongoDB">   
+			<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=MongoDB">
 			<img alt="Amazon Web Services" src="https://img.shields.io/badge/AWS - Amazon Web Services-05122A?style=flat&logo=AWS">
 			<img alt="Github Pages" src="https://img.shields.io/badge/Github%20Pages-05122A?style=flat&logo=Github">
 		</kbd>
@@ -65,22 +77,24 @@
 			<br>
 			<img alt="Power BI" src="https://img.shields.io/badge/PBI - Power BI-05122A?style=flat&logo=PBI">
 			<img alt="Google Analytics 4" src="https://img.shields.io/badge/GA4 - Google Analytics 4-05122A?style=flat&logo=GA4">
-      <img alt="Excel" src="https://img.shields.io/badge/Excel-05122A?style=flat&logo=Excel">
-      <img alt="Jira" src="https://img.shields.io/badge/Jira-05122A?style=flat&logo=Jira">
-      <img alt="PIM" src="https://img.shields.io/badge/PIM-05122A?style=flat&logo=PIM">
+			<img alt="Excel" src="https://img.shields.io/badge/Excel-05122A?style=flat&logo=Excel">
+			<img alt="Jira" src="https://img.shields.io/badge/Jira-05122A?style=flat&logo=Jira">
+			<img alt="PIM" src="https://img.shields.io/badge/PIM-05122A?style=flat&logo=PIM">
 			<img alt="Git" src="https://img.shields.io/badge/Git-05122A?style=flat&logo=Git">
 			<img alt="Github Desktop" src="https://img.shields.io/badge/Github%20Desktop-05122A?style=flat&logo=Github">
 			<img alt="Antigravity" src="https://img.shields.io/badge/Antigravity-05122A?style=flat&logo=Antigravity">
 			<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-05122A?style=flat&logo=Visual%20Studio%20Code">
-			<img alt="R Commander" src="https://img.shields.io/badge/R Commander-05122A?style=flat&logo=R">
+			<img alt="Cursor" src="https://img.shields.io/badge/Cursor-05122A?style=flat&logo=cursor">
 			<img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-05122A?style=flat&logo=Claude%20Code">
+			<img alt="OpenCode" src="https://img.shields.io/badge/OpenCode-05122A?style=flat">
+			<img alt="R Commander" src="https://img.shields.io/badge/R Commander-05122A?style=flat&logo=R">
 			<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-05122A?style=flat&logo=Jupyter">
 			<img alt="Static Badge" src="https://img.shields.io/badge/Google%20Colab-05122A?style=flat&logo=Google%20Colab">
 			<img alt="Canva" src="https://img.shields.io/badge/Canva-05122A?style=flat&logo=Canva">
 			<img alt="Jamovi" src="https://img.shields.io/badge/Jamovi-05122A?style=flat&logo=Jamovi">
 		</kbd>
 	</p>
-    </p>
+	</p>
 </div>
 <!-- Top Projects List -->
 
@@ -152,7 +166,6 @@ Specialization in Statistics and Marketing
 
 **Master in Data Science & AI** \
 [**Nodd3r**](https://nodd3r.com/) • *jun. 2024 – jun. 2025* \
-Skills: `ETL (Extract, Transform, Load)` `EDA` `Machine learning` `Deep Learning` `Computer Vision` `LLM`
+Skills: `ETL (Extract, Transform, Load)` `EDA` `Machine learning` `Deep Learning` `Computer Vision` `LLM` `LangChain` `LangGraph` `OpenAI API` `Google SDK` `Docker`
 
 <br/>
-
